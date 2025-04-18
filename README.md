@@ -8,7 +8,8 @@ pip install -r requirements.txt
 ```
 
 ## data
-The wildchat data is collected from [wildchat](https://huggingface.co/datasets/allenai/WildChat). We labeled the data by GPT-4 and release it to public for academic use.
+The wildchat data is collected from [wildchat](https://huggingface.co/datasets/allenai/WildChat). We labeled the data by GPT-4 and human and release it to public for academic use.
+Please download from https://entuedu-my.sharepoint.com/:u:/g/personal/liang012_e_ntu_edu_sg/ERL3BUEJIGlAuuNTetOOezEBIeCUnUdwr2rDIVYTrSpsfQ?e=m9ORij 
 The gpt_data_new_unix data is used to finetune the pretrained model.
 ```
 unzip data_en.zip
